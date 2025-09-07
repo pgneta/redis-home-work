@@ -66,3 +66,19 @@ Start client
 npm start
 ```
 The frontend runs on: http://localhost:3000
+
+### 4. Usage
+
+Open http://localhost:3000 in your browser
+
+Search for a GitHub username
+
+Navigate between pages using the pagination
+
+View the number of public repositories for each user
+
+### 4. NOTES!
+
+Make sure to replace your_github_token with a valid GitHub Personal Access Token
+
+Backend uses CORS to allow requests from http://localhost:3000
